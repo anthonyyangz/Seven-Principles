@@ -1,0 +1,17 @@
+P {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 20px;
+}
+
+p:nth-child(even){
+color: orange;
+
+}
+body {
+  background-color: black;
+  color: white;
+}
+
+h1, h2, h3 {
+  font-family: 'Charm', cursive;
+}
